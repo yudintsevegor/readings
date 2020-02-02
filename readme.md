@@ -23,4 +23,6 @@ There are collection of useful links. From articles about golang to important pa
 - Git
   - [Merge](https://habr.com/ru/post/195674/)
 - [Messenger Comparison](https://jayxt.github.io/MessengerComparison/ru/)
-- [Data base migration (uber)](https://eng.uber.com/mysql-migration/)
+- Data base migration (uber)
+   - [Original](https://eng.uber.com/mysql-migration/)
+   - [Translation (RU)](https://habr.com/ru/company/southbridge/blog/322624/)
