@@ -26,7 +26,7 @@
 * https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1 - статья на предыдущую тему
 
 Материалы для дополнительного чтения на русском:
-* https://habrahabr.ru/company/mailru/blog/314804/ - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду
+* https://habrahabr.ru/company/mailru/blog/314804/ - 50 оттенков го. обязательно к прочтению. 
 * https://habrahabr.ru/post/306914/ - Разбираемся в Go: пакет io
 * https://habrahabr.ru/post/272383/ - постулаты go. Маленькая статья об основными принципах языка
 * https://habrahabr.ru/company/mailru/blog/301036/ - лучшие практики go
