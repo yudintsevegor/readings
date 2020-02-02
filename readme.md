@@ -15,7 +15,7 @@ There are collection of useful links. From articles about golang to important pa
   - [Microservices](https://github.com/yudintsevegor/readings/tree/master/Golang/microservices)
   - [Net/Http](https://github.com/yudintsevegor/readings/tree/master/Golang/netHttp)
   - [Performance And Testing](https://github.com/yudintsevegor/readings/tree/master/Golang/performanceAndTesting)
-  - [Reflection And Codegen](https://github.com/yudintsevegor/readings/tree/master/Golang/reflectionAndCodegen)
+  - [Reflection And Codegen](https://github.com/yudintsevegor/readings/tree/master/Golang/reflectionCodegen)
   - [Other](https://github.com/yudintsevegor/readings/tree/master/Golang/other)
 - [Idempotency](https://habr.com/ru/company/yandex/blog/442762/)
 - [Http patterns](https://habr.com/ru/company/yandex/blog/265569/)
