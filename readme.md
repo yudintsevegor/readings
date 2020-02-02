@@ -22,3 +22,4 @@ There are collection of useful links. From articles about golang to important pa
 - [What happens when ...](https://github.com/alex/what-happens-when#the-g-key-is-pressed)
 - Git
   - [Merge](https://habr.com/ru/post/195674/)
+- [Messenger Comparison](https://jayxt.github.io/MessengerComparison/ru/)
