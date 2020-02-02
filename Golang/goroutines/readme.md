@@ -3,8 +3,10 @@
 * https://habrahabr.ru/post/308070/ - как работают каналы
 * https://habrahabr.ru/post/333654/ - как работает планировщик ( https://rakyll.org/scheduler/ )
 * https://habrahabr.ru/post/271789/ - танцы с мютексами
+* https://habr.com/ru/post/269299/ - net/context
 
 На английском:
+* https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb
 * https://blog.golang.org/race-detector
 * https://blog.golang.org/pipelines
 * https://blog.golang.org/advanced-go-concurrency-patterns
